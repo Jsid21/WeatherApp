@@ -1,0 +1,13 @@
+h2{
+    display: inline-block;
+}
+#cityIcon{
+    font-size: 1.5em;
+}
+#details div{
+    font-size: 1.1em;
+    font-weight:bolder;
+}
+#details span{
+    color: blue;
+}
